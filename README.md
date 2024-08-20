@@ -1,10 +1,10 @@
-# NutritionMaster_ShiShenPro
+# NutritionMaster_ShiShenPro 营养大师——食神Pro
 
 NutritionMaster_ShiShenPro - "Pro Nutrition, Pro Life, Master Your Diet with ShiShenPro"
 
 营养大师——食神Pro，专业营养，专业生活，与食神一起管理你的饮食菜谱
 
-# 有关资料
+## 有关资料
 
 **【之前 repo】**: [https://github.com/SmartFlowAI/TheGodOfCookery](https://github.com/SmartFlowAI/TheGodOfCookery)
 
